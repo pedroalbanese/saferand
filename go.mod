@@ -1,4 +1,4 @@
-module github.com/ericlagergren/saferand
+module github.com/pedroalbanese/saferand
 
 go 1.17
 
